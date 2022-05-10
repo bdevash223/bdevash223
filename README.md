@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bdevash223
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# README
 
-<!---
-bdevash223/bdevash223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Socia media app is for client to handle the source api response and check source api is working properly or not.
+
+Things you may check before run:
+
+* Ruby version 2.7.0
+
+* Rails version 6.0.4.1
+
